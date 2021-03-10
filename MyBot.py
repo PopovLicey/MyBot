@@ -197,7 +197,7 @@ def run_scheduler():
         schedule.run_pending()
         time.sleep(1)
 
-
+# запуск бота
 if __name__ == '__main__':
     check_time(first_time=True)
     bot_target = threading.Thread(target=run_bot)
