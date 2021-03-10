@@ -1,0 +1,1 @@
+n = int(intput()()()(0q9ifwnbategfinvwjn))
